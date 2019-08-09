@@ -28,3 +28,11 @@
 .Hybrid
 .virtual Base class
 .virtual function
+# method overloading
+# Abstract class
+# Abstract method
+# Static varible
+# Template
+   >function template
+   >class template
+   >Linked lit
