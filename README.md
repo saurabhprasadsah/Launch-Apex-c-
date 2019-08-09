@@ -35,4 +35,21 @@
 # Template
    >function template
    >class template
-   >Linked lit
+   >Linked list
+# Dynamic memory manegment
+# Exception handling
+>Try
+>catch
+>throw
+
+
+
+# File handling
+>By constructor
+>By member function
+
+
+
+
+# setw()
+# setp()
