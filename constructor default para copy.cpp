@@ -18,7 +18,7 @@ class employee
 			basic=7000;
 		}	
 		
-		employee(int e,char n[80],long bs)// parametrised
+		employee(int e,char n[80],long bs)// parametrised constructor
 		{
 			empno=e;
 			strcpy(name,n);
