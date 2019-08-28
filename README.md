@@ -47,12 +47,9 @@
 >catch
 >throw
 
-
-
 # File handling
 >By constructor
 >By member function
-
 
 
 
