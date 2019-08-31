@@ -1,3 +1,14 @@
+// syntax:-
+ //~ destructor name()
+// {
+///	 _____
+//	_____________
+ //}		 
+		 
+
+
+
+
 #include<iostream>
 using namespace std;
 #include<conio.h>
