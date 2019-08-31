@@ -4,8 +4,9 @@
 
 # class vs object😍
 
-# sample program
-# scope resolution operator
+# sample program😊
+
+# scope resolution operator😁
 
 # constructor🙂
 
@@ -34,14 +35,20 @@
 .virtual Base class
 .virtual function
 # method overloading
-# Abstract class
-# Abstract method
+
+# Abstract class💥
+
+# Abstract meth😃d
+
 # Static varible
+
 # Template
    >function template
    >class template
    >Linked list
+   
 # Dynamic memory manegment
+
 # Exception handling
 >Try
 >catch
@@ -54,5 +61,7 @@
 
 
 # setw()
+
 # setp()
+
 # Happy coding
