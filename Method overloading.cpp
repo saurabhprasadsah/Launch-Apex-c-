@@ -33,12 +33,11 @@ class sample
 {
 	sample obj1;
 	sample obj2;
-    sample obj3;
-	
+        sample obj3;	
 	cout<<"\n summation of integer no="<<obj1.sum();
 	cout<<"\n summation of two integer no="<<obj2.sum(10,30);
 	cout<<"\n summation of float number="<<obj3.sum(2.5,7.8,1.9);
 	
-	
+	return 0;
 	
 }
