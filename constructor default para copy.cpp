@@ -43,8 +43,8 @@ class employee
 			cout<<"\n basic salary"<<basic;
 			cout<<"ta="<<ta;
 			cout<<"da="<<da;
-			cout<<"\n total salary"<<total_sal;
-	   }
+			cout<<"\n total salary"<<total_sal; 
+		}	
 };
 
 
@@ -64,5 +64,5 @@ class employee
 	obj2.display();
 	cout<<"employee details:-";
 	obj3.display();
-	
+	return 0;
 }
