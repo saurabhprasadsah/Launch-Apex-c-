@@ -7,7 +7,7 @@ class sample
 	private:
 		int a,b;
     
-    public:
+        public:
     	sample()
     	{
     		a=10;
@@ -24,7 +24,7 @@ class sample
 };
 void display(sample obj)
 {
-	cout<<endl<<"value of non member function of a:"<<obj.a ;
+	cout<<endl<<"value of non member function of a:"<<obj.a;
 	cout<<endl<<"value of non member function of b:"<<obj.b;
 }
 
@@ -35,5 +35,5 @@ void display(sample obj)
 	sample obj;
 	obj.print();
 	display(obj);
-	
+	return 0;
 }
