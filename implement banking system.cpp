@@ -72,12 +72,12 @@ public:
 		int choice;
 		while(1)
 		{
-			cout<<"\n -- main menu";
-			cout<<"1.deposit";
-			cout<<"2.withdraw";
-			cout<<"3.compound";
-			cout<<"4.get balance";
-			cout<<"5.exit";					
+			cout<<" \n -- main menu";
+			cout<<" \n1.deposit";
+			cout<<" \n2.withdraw";
+			cout<<" \n3.compound";
+			cout<<" \n4.get balance";
+			cout<<" \n5.exit";					
      		cout<<"\n enter your choice(1-5):";
      		cin>>choice;
      		switch(choice)
@@ -89,14 +89,14 @@ public:
      			case 2:
 				 obj.withdraw();
 				 break;
-			 	case 3:
-     				obj.compound();
+		 	case 3:
+     		        	obj.compound();
      				break;
-				case 4:
+			case 4:
      				obj.get_balance();
      				break;	
      				
-     		    case 5:
+     		        case 5:
 				   exit(0);		
 			 }
 		}
